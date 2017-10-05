@@ -1,0 +1,40 @@
+{
+    "university_name" : "university of Moratuwa",
+    "web_url" : "http://www.mrt.ac.lk/web/",
+    "motto" : "Wisdom is all wealth",
+    "short_description" : "University of Moratuwa, a leading technological university in the region welcomes you to witness a truly unique experience!",
+    "location" : {
+        "country" : "Sri Lanka",
+        "address_line_1" : "Bandaranayake Mawatha",
+        "address_line_2" : "Katubedda, Moratuwa",
+        "postal_code" : "10400"
+    },
+    "contact_info" : {
+        "telephone_1" : "+94 112650301",
+        "telephone_2" : "+94 112650188",
+        "fax" : "+94112650622",
+        "email" : "info@mrt.ac.lk"
+    },
+    "university_officers" : {
+        "chancellor" : {
+            "name" : "Chancellor Name",
+            "email" : "Chancellor email",
+            "contact_no" : "Chancellor Contact No"
+        },
+        "vice_chancellor" : {
+            "name" : "Prof. A.K.W. Jayawardane",
+            "email" : "vc@uom.lk",
+            "contact_no" : "+94 11 2651259"
+        },
+        "deputy_chancellor" : {
+            "name" : "Prof. R.A. Attalage",
+            "email" : "dvc@uom.lk",
+            "contact_no" : "+94 3139398"
+        },
+        "registrar"  : {
+            "name" : "Mr. A.L.J. Sadique",
+            "email" : "registrar@uom.lk",
+            "contact_no" : "+94 11 2651610"
+        }
+    }
+}
