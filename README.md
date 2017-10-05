@@ -189,6 +189,10 @@ Included Informations,
 ````
 
 ### Pull Request Guidelines
+
+If you fixed any issues in this repository, then the Pull Request content should contain that respected issue id.
+Eg : Issue : #001
+
 If you are sending one PR for one university information then, follow this steps
  1. Please clearly indicate the university name in the PR title. 
  2. You can create multiple PR for each university information. In that case, mention the information type with university name. 
