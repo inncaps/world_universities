@@ -1,0 +1,92 @@
+{
+    "university_name" : "University of Moratuwa",
+    "faculties" : [
+         {
+            "faculty_name" : "Faculty of Engineering",
+            "web_url" : "http://www.mrt.ac.lk/efac/",
+            "dean_info" : {
+                "name" : "Professor K Kapila CK Perera"
+            },
+            "departments" : [
+                {
+                    "department_name" : "Department of Chemical & Process Engineering",
+                    "web_url" : "http://www.cpe.mrt.ac.lk/",
+                    "hod_info" : {
+                        "name" : "Dr. Gunawardena S. H. P."
+                    }
+                },
+                {
+                    "department_name" : "Department of civil Engineering",
+                    "web_url" : "http://www.civil.mrt.ac.lk/",
+                    "hod_info" : {
+                        "name" : "Bandara J.M.S.J",
+                        "email" : "bandara@civil.mrt.ac.lk",
+                        "contact_no" : "+94-11-2650567 ( Ext : 2129 )"
+                    }
+                },
+                {
+                    "department_name" : "Department of Computer Science & Engineering",
+                    "web_url" : "http://www.cse.mrt.ac.lk/",
+                    "hod_info" : {
+                        "name" : "DR. A. shehan Perera",
+                        "email" : "shehan@cse.mrt.ac.lk"
+                    }
+                },
+                {
+                    "department_name" : "Department of Earth Resources Engineering",
+                    "web_url" : "http://www.ere.mrt.ac.lk",
+                    "hod_info" : {
+                        "name" : "DR. HMR Premasiri",
+                        "email" : "ranjith@earth.mrt.ac.lk"
+                    }
+                },
+                {
+                    "department_name" : "Department of Electrical Engineering",
+                    "web_url" : "http://www.elect.mrt.ac.lk",
+                    "hod_info" : {
+                        "name" : "Prof. N. Wickramarachchi",
+                        "email" : "wick@elect.mrt.ac.lk"
+                    }
+                },
+                {
+                    "department_name" : "Department of Electronic and Telecommunication Engineering",
+                    "web_url" : "http://www.ent.mrt.ac.lk",
+                    "hod_info" : {
+                        "name" : "Prof. Rohan Munasinghe",
+                        "email" : "head-entc@uom.lk"
+                    }
+                },
+                {
+                    "department_name" : "Department of Materials Science and Engineering",
+                    "web_url" : "http://materials.mrt.ac.lk",
+                    "hod_info" : {
+                        "name" : "Mr. V.S.C. Weragoda",
+                        "email"  :"sampathw@uom.lk"
+                    }
+                },
+                {
+                    "department_name" : "Department of Mechanical Engineering",
+                    "web_url" : "http://www.mech.mrt.ac.lk",
+                    "hod_info" : {
+                        "name" : "Dr.Ruwan Gopura"
+                    }
+                },
+                {
+                    "department_name" : "Department of Textile and Clothing Technology",
+                    "web_url" : "http://www.textile.mrt.ac.lk/",
+                    "hod_info" : {
+                        "name" : "Dr. U.S.W. Gunasekera"
+                    }
+                },
+                {
+                    "department_name" : "Department of Transport & Logistics Management",
+                    "web_url" : "http://www.tlm.mrt.ac.lk",
+                    "hod_info" : {
+                        "name" : "Mr.S.N. Bentotage",
+                        "email" : "head-tlm@uom.lk"
+                    }
+                }
+            ]
+        }
+    ]
+}
