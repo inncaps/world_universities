@@ -19,8 +19,13 @@ Please read this guideline carefully before the contribution.
  
 ## How to contribute to this project
 
-You should get the university official website and use that to collect the relevant information. Please do not include any wrong information here. It will be used by most of the students for their studies.
-
+You should get the university official website and use that to collect the relevant information. Please do not include any wrong information here. It will be used by most of the students for their studies. 
+ 1. Fork this repository to your GitHub account.
+ 2. Create new entry about the University
+ 3. Commit and Push your changes to your repository
+ 4. Create Pull Request to this repo(Please care about the PR guidelines)
+ 5. Thanks for your contribution and Don't forget to star the repository
+ 
 ### Folder Structure of the entries,
 
 you want to follow this folder structure while creating the entries for the universities.
