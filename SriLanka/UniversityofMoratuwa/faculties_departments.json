@@ -28,7 +28,7 @@
                     "department_name" : "Department of Computer Science & Engineering",
                     "web_url" : "http://www.cse.mrt.ac.lk/",
                     "hod_info" : {
-                        "name" : "DR. A. SHEHAN PERERA",
+                        "name" : "DR. A. shehan Perera",
                         "email" : "shehan@cse.mrt.ac.lk"
                     }
                 },
@@ -36,7 +36,7 @@
                     "department_name" : "Department of Earth Resources Engineering",
                     "web_url" : "http://www.ere.mrt.ac.lk",
                     "hod_info" : {
-                        "name" : "DR. HMR PREMASIRI",
+                        "name" : "DR. HMR Premasiri",
                         "email" : "ranjith@earth.mrt.ac.lk"
                     }
                 },
